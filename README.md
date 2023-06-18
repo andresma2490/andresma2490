@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Web developer with +4 years of work experience. I have knowledge of the best programming practices, I use tools like Git and Docker and frameworks for the development of requirements and problem solving.<br><br>I am an honest, responsible, creative person and I love teamwork ❤. I am passionate about learning about everything and I am always improving to face any challenge.</p>
+<p align="left">Web developer with +4 years of work experience. I have knowledge of the best programming practices, I use tools like Git and Docker and frameworks such as NestJS, Angular, React, Bootstrap, Tailwind, etc. for the development of requirements and problem solving.<br><br>I am an honest, responsible, creative person and I love teamwork ❤. I am passionate about learning about everything and I am always improving to face any challenge.</p>
 
 ###
 
@@ -41,11 +41,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="2" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-</div>
 
-###
-
-<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="40" alt="heroku logo"  />
   <img width="2" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
@@ -68,6 +64,6 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2016 📒☝🤓</p>
+<p align="left">✨ Creating bugs since 2018 📒☝🤓</p>
 
 ###
